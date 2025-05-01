@@ -101,7 +101,7 @@ globo_resultado.pack(fill="x", pady=10)
 # Créditos
 tk.Label(
     frame,
-    text="Hecho con ❤️ para ti",
+    text="Hecho con  para ti",
     bg=BG_COLOR,
     fg="#7f8c8d",
     font=("Arial", 10)
